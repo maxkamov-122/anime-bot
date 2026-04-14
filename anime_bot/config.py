@@ -1,0 +1,2 @@
+BOT_TOKEN = "8102876759:AAFA7uqbsID6fNDBmt5B5xg8ZB2LOqYww-I"
+ADMIN_ID = 8301726544  # O'z Telegram ID ingizni yozing
